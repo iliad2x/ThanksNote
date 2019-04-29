@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="title_user_id">아이디</string>
+    <string name="title_password">비밀번호</string>
+    <string name="title_regist">회원가입</string>
+    <string name="title_find_info">아아디/비밀번호 찾기</string>
+    <string name="action_sign_in">로그인</string>
+    <string name="action_sign_in_short">로그인</string>
+    <string name="switch_auto_login">자동로그인</string>
+
+    <string name="error_invalid_email">아이디가 맞지 않습니다.</string>
+    <string name="error_invalid_password">비밀번호의 길이가 너무 짧습니다.</string>
+    <string name="error_incorrect_password">비밀번호가 맞지 않습니다.</string>
+    <string name="error_field_required">반드시 입력해야 합니다.</string>
+
+
+    <!-- ### 사이트 URL 모음 시작 -->
+
+    <!-- 호스트 URL -->
+    <string name="url_host">http://heart.misosalife.co.kr</string>
+
+    <!-- 로그인 페이지 URL -->
+    <string name="url_login">http://heart.misosalife.co.kr/pages/transaction/login.aspx</string>
+
+    <!-- 캘린더 페이지 URL -->
+    <string name="url_subject">http://heart.misosalife.co.kr/pages/subject.aspx</string>
+
+    <!-- 아이디 비밀번호 찾기 페이지 URL -->
+    <string name="url_find">http://heart.misosalife.co.kr/pages/memfind.aspx</string>
+
+    <!-- 회원가입 페이지 URL -->
+    <string name="url_regist">http://heart.misosalife.co.kr/pages/memjoin1.aspx</string>
+
+    <!-- ### 사이트 URL 모음 끝 -->
+
+
+
+    <!-- Sharedpreference 키 -->
+    <string name="shared_login">thanksnote_login</string>
+    <string name="shared_id">user_id</string>
+    <string name="shared_pwd">user_pwd</string>
+    <string name="shared_autologin">allow_auto_login</string>
+
+</resources>

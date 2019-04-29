@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">감사노트</string>
+    <string name="title_activity_webview">감사노트</string>
+    <string name="action_settings">설정</string>
+</resources>
